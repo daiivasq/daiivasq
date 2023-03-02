@@ -14,8 +14,8 @@
 ```javascript
 const daii = {
   Name: "Daihiana" | "Daisin",
-  code: [C#, Python, HTML, CSS],
-  tools: [Xamarin Forms, Ilustrator, Photoshop, ],
+  code: [C#, Python, DART, JS],
+  tools: [Xamarin Forms, Flutter, Ilustrator, Photoshop, ],
   career: {
                         university: "Intec",
                         carreer: "Software Enginner",
