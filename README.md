@@ -1,6 +1,6 @@
 <h2> Hi, I'm Daihiana Vasquez! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/XXaqHXbKLx5NLHDwNZ/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="https://www.intec.edu.do">Intec</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Xamarin Developer  at <a href="https://www.itgroupmobile.com/es/">It Group</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Enginner at <a href="https://www.intec.edu.do">Intec</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Mobile Developer  at <a href="https://www.itgroupmobile.com/es/">It Group</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: daiivasq_](https://img.shields.io/twitter/follow/Daiivasq_?style=social)](https://twitter.com/daiivasq_)
