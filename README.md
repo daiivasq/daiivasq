@@ -3,7 +3,7 @@
 <p><em>Software Enginner at <a href="https://www.intec.edu.do">Intec</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Xamarin Developer  at <a href="https://www.itgroupmobile.com/es/">It Group</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter: daiivasq_](https://img.shields.io/twitter/follow/Lovely_daii_x4?style=social)](https://twitter.com/daiivasq_)
+[![Twitter: daiivasq_](https://img.shields.io/twitter/follow/Daiivasq_?style=social)](https://twitter.com/daiivasq_)
 [![Linkedin: daihiana-vásquez-a205b0182](https://img.shields.io/badge/-DaihianaVasquez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daihiana-vásquez-a205b0182/)](https://www.linkedin.com/in/daihiana-vásquez-a205b0182/)
 [![GitHub daiivasq](https://img.shields.io/github/followers/daiivasq?label=follow&style=social)](https://github.com/daiivasq)
 
